@@ -66,4 +66,7 @@ Bản nâng cấp nằm trong `.claude/skills/<tên>/SKILL.md`. Chưa xoá skill
 | Reel Facebook đăng đều đặn | `reel-facebook-viral` | `viral-facebook-reel-maker` | Cùng quy trình; bản tiếng Việt đã nhúng sẵn 4 script nên chạy độc lập |
 | Chấm ý tưởng 8 yếu tố | `video-trieu-view-8-yeu-to` | không trùng | Khác việc: chấm trước khi dựng. Đã thêm nối sang các skill dựng |
 
-Chưa đối chiếu: nhóm edit video, ảnh chân dung (mục 8, 11).
+### Nhóm edit video (đã gộp)
+6 skill (`dang-1-thoai-thumbnail`, `dang-2-hieu-ung-cao-cap`, `dang-3-huong-dan-toi-gian`, `dang-4-infographic-trang`, `cap-do-1-khung-don`, `cap-do-2-postcard-2-nguoi`) lặp lại y nguyên phần Lõi (cắt gọn, thumbnail, caption), phần cài đặt môi trường và phần tài nguyên. Gộp thành 1: `edit-video-talking-head` (Lõi + cài đặt viết một lần, 6 kiểu là 6 lớp riêng). Hướng dẫn dùng: `HUONG-DAN-EDIT-VIDEO.md`.
+
+Chưa đối chiếu: nhóm ảnh chân dung (mục 11).
