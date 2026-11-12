@@ -1,6 +1,6 @@
 ---
 name: "the-jessie-chan-dung-giu-guong-mat"
-description: "The Jessie – Bộ ảnh chân dung giữ nguyên khuôn mặt từ 1 ảnh: gộp 3 bộ concept cố định: Blue Floral Luxury (4 ảnh), Six Fashion (6 ảnh: Old Money Café, Gen Z Street, High Fashion City, Commercial Lifestyle, Luxury Resort, Monaco Business Luxury), LUCKY LE Phượng Hoàng Lửa Couture (6 ảnh). Gọi khi JC gửi ảnh mặt rồi nói 'blue floral', 'bộ 6 ảnh thời trang', 'LUCKY LE', hoặc 'làm bộ chân dung' / 'chọn phù hợp' (Cole tự chọn bộ). Concept tự do theo ảnh hoặc sản phẩm → dùng the-jessie-auto-5."
+description: "The Jessie – Bộ ảnh chân dung giữ nguyên khuôn mặt từ 1 ảnh: gộp 3 bộ concept cố định: Blue Floral Luxury (4 ảnh), Six Fashion (6 ảnh: Old Money Café, Gen Z Street, High Fashion City, Commercial Lifestyle, Luxury Resort, Monaco Business Luxury), The Jessie Couture – Thời trang đặt may cao cấp, Phượng Hoàng Lửa (6 ảnh). Gọi khi JC gửi ảnh mặt rồi nói 'blue floral', 'bộ 6 ảnh thời trang', 'The Jessie Couture' (tên cũ 'LUCKY LE' vẫn nhận), hoặc 'làm bộ chân dung' / 'chọn phù hợp' (Cole tự chọn bộ). Concept tự do theo ảnh hoặc sản phẩm → dùng the-jessie-auto-5."
 ---
 
 # The Jessie – Bộ ảnh chân dung giữ nguyên khuôn mặt
@@ -14,9 +14,9 @@ Không gộp (việc khác hẳn): `the-jessie-auto-5` (5 concept tự do theo t
 |---|---|---|
 | Sang trọng, hoa xanh, đầm pha lê sapphire | **Blue Floral Luxury** | 4 |
 | Đa phong cách thời trang đời thường – cao cấp (café, street, city, resort, Monaco) | **Six Fashion** | 6 |
-| Couture đỏ ruby, phượng hoàng lửa, điện ảnh | **LUCKY LE** | 6 |
+| Couture đỏ ruby, phượng hoàng lửa, điện ảnh | **The Jessie Couture** (tên cũ: LUCKY LE) | 6 |
 
-**Chế độ tự chọn** (JC nói "làm bộ chân dung", "chọn phù hợp", chỉ gửi ảnh): ảnh/yêu cầu nói tông xanh, hoa, pha lê → Blue Floral; nói đỏ, quyền lực, phượng hoàng → LUCKY LE; còn lại → **Six Fashion** (đa dạng, an toàn nhất). Báo 1 dòng "Cole chọn bộ X vì …" rồi làm luôn, không hỏi lại. JC muốn đổi thì nói "đổi sang bộ Y".
+**Chế độ tự chọn** (JC nói "làm bộ chân dung", "chọn phù hợp", chỉ gửi ảnh): ảnh/yêu cầu nói tông xanh, hoa, pha lê → Blue Floral; nói đỏ, quyền lực, phượng hoàng → The Jessie Couture; còn lại → **Six Fashion** (đa dạng, an toàn nhất). Báo 1 dòng "Cole chọn bộ X vì …" rồi làm luôn, không hỏi lại. JC muốn đổi thì nói "đổi sang bộ Y".
 
 ## Khung chung cho cả 3 bộ
 
@@ -71,7 +71,8 @@ Tiến hành ngay khi ảnh đủ rõ; **không hỏi** phong cách, trang phụ
 6. **Monaco Business Luxury**: ban công/sân thượng nhìn biển, bến du thuyền, kiến trúc French Riviera; váy midi trắng/suit nữ/đồ doanh nhân; tư thế tự tin, có thể cầm ly hoặc phụ kiện; nắng ban ngày trong, viền nắng trên tóc.
 Ghi tên phong cách ở phần trả lời bên ngoài, không đặt chữ lên ảnh.
 
-## Bộ 3 — LUCKY LE (6 ảnh dọc 9:16)
+## Bộ 3 — The Jessie Couture · Thời trang đặt may cao cấp (6 ảnh dọc 9:16)
+*(Tên cũ: LUCKY LE.)*
 *Nữ chủ nhân là chính người trong ảnh tham chiếu; phượng hoàng chỉ là ngôn ngữ thị giác hỗ trợ, không lấn át gương mặt.* Một câu lệnh chủ đề ngắn → tự hoàn thiện art direction và tạo ngay 6 ảnh, không hỏi về lựa chọn thẩm mỹ.
 - **Tóc mặc định:** đen dài uốn sóng mềm, bóng tự nhiên, rẽ ngôi lệch gọn, không tóc rơi trên trán. JC nói "tóc búi" → búi thấp điêu khắc, gọn sang.
 - **Concept mặc định `RUBY REBIRTH – NỮ CHỦ NHÂN PHƯỢNG HOÀNG LỬA` (continuity bible, lặp nguyên văn trong mọi prompt):** một phụ nữ duy nhất; váy couture đỏ ruby–garnet dài chạm sàn, thân kín sang trọng, cổ bất đối xứng, tay dài, cấu trúc lông phượng ở vai và tà váy, không hở quá mức; bông tai + nhẫn ruby, không vòng cổ to, không nơ cổ; da thật phát sáng nhẹ, eyeliner sắc gọn, mắt champagne–đồng, môi đỏ ruby satin; đại sảnh sơn mài đen + đá núi lửa, ánh vàng hổ phách, bụi lửa mịn, nền đỏ rượu vang sâu. **Không** một con chim khổng lồ cạnh người: tạo "vầng phượng hoàng" từ lông pha lê, lụa organza và đường sáng vàng phía sau, chỉ gợi cánh và vương miện.
@@ -82,5 +83,5 @@ Ghi tên phong cách ở phần trả lời bên ngoài, không đặt chữ lê
 
 ## JC chỉ cần làm
 1. Gửi 1 ảnh mặt rõ.
-2. Nói: *"làm bộ Blue Floral"*, *"làm bộ 6 ảnh thời trang"*, *"LUCKY LE"*, hoặc *"làm bộ chân dung, chọn phù hợp"*.
+2. Nói: *"làm bộ Blue Floral"*, *"làm bộ 6 ảnh thời trang"*, *"The Jessie Couture"*, hoặc *"làm bộ chân dung, chọn phù hợp"*.
 3. Dán prompt sang công cụ ảnh (hoặc xem ảnh nếu phiên có công cụ sinh ảnh); ảnh nào lệch mặt thì báo số ảnh, Cole sửa riêng ảnh đó.
