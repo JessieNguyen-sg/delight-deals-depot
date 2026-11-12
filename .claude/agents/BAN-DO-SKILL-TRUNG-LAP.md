@@ -20,7 +20,7 @@ Cập nhật: 12/11/2026. Chỉ là bản đồ để quyết định giữ/gộ
 
 ## 5. Bộ mã code ảnh/video
 - `the-jessie-bo-ma-code` ≈ `bo-ma-code-hong-anh` (+ `the-jessie-ma-code-tao-video` cho phần video)
-→ **Giữ:** `the-jessie-bo-ma-code` + `the-jessie-ma-code-tao-video`.
+→ **Giữ:** `the-jessie-bo-ma-tao-anh-video` + `the-jessie-ma-code-tao-video`.
 
 ## 6. Sao lưu
 - `jc-sao-luu-khoi-phuc` ≈ `sao-luu-doi-ma-a`
@@ -56,7 +56,7 @@ Bản nâng cấp nằm trong `.claude/skills/<tên>/SKILL.md`. Chưa xoá skill
 | Nghiên cứu ý tưởng | `chi-hai-my-nghien-cuu` | `subagent-nghien-cuu` | Bản chung chung của khách, Chị Hai đã gồm hết; thêm bước chuyển giao sang Chị Tư/Út Chi |
 | Chăm sóc khách | `chi-ba-vy-cham-soc` | `subagent-cham-soc` | Thêm quy tắc xin tài liệu/link, lần đầu dùng, lưu ý Enter; bản subagent còn trỏ tới skill không tồn tại |
 | SEO video | `ut-chi-seo-video` | `seo-video-youtube` | Gộp checklist Studio: timeline Hỏi Studio, cards, end screen, lỗi chip từ khóa, batch kỹ thuật, kiểm tra Lưu, sự cố |
-| Bộ mã code | `the-jessie-bo-ma-code` | `bo-ma-code-hong-anh` | Hai bản giống hệt (chỉ khác tên sheet); thêm lưu ý Zalo chủ bộ mã |
+| Bộ mã code | `the-jessie-bo-ma-tao-anh-video` (đổi tên từ `the-jessie-bo-ma-code`) | `bo-ma-code-hong-anh` | Hai bản giống hệt (chỉ khác tên sheet); thêm lưu ý Zalo chủ bộ mã |
 | Sao lưu | `jc-sao-luu-khoi-phuc` | `sao-luu-doi-ma-a` | Gộp 1: có cả subagent, Drive CLAUDE_BACKUP, GitHub riêng tư, bước kiểm tra đếm đủ |
 
 Chưa đối chiếu: nhóm edit video, video viral, ảnh chân dung (mục 8, 9, 11).

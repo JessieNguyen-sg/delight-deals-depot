@@ -1,9 +1,11 @@
 ---
-name: "the-jessie-bo-ma-code"
-description: "the Jessie - Bộ mã code: khi JC gõ mã dạng /glass, /ruby, /Dragon Queen… hoặc hỏi về bộ mã code ảnh ChatGPT/video Veo3, nhận ra mã thuộc chủ đề nào."
+name: "the-jessie-bo-ma-tao-anh-video"
+description: "The Jessie – Bộ mã tạo ảnh & video AI (chân dung nghệ thuật, du lịch, hóa thân, quảng cáo 3D, thú cưng): khi JC gõ mã dạng /glass, /ruby, /Dragon Queen… hoặc hỏi về bộ mã tạo ảnh ChatGPT / video Veo3, nhận ra mã thuộc chủ đề nào và tạo gì."
 ---
 
-# the Jessie - Bộ mã code
+# The Jessie – Bộ mã tạo ảnh & video AI
+
+Mỗi mã là một lệnh tắt để tạo 1 ảnh (ChatGPT) hoặc 1 video (Veo3) theo chủ đề: chân dung thời trang nghệ thuật, du lịch (Tây Bắc, Tà Xùa, Hà Giang, Đà Lạt, Hội An, Mộc Châu…), hóa thân nhân vật, áo dài di sản, thú cưng, Noel, quảng cáo 3D sản phẩm.
 
 Nguồn: Google Sheet "BỘ MÃ CODE" (tab TỔNG HỢP và SẢN PHẨM). Mỗi chủ đề (REF) có khoảng 10 mã ảnh cho ChatGPT, một số có thêm mã video Veo3.
 
