@@ -59,4 +59,11 @@ Bản nâng cấp nằm trong `.claude/skills/<tên>/SKILL.md`. Chưa xoá skill
 | Bộ mã code | `the-jessie-bo-ma-concept-chan-dung` (đổi tên từ `the-jessie-bo-ma-code`, tên hiển thị "The Jessie – Bộ mã Concept Chân dung & Du lịch AI") | `bo-ma-code-hong-anh` | Hai bản giống hệt (chỉ khác tên sheet); thêm lưu ý Zalo chủ bộ mã |
 | Sao lưu | `jc-sao-luu-khoi-phuc` | `sao-luu-doi-ma-a` | Gộp 1: có cả subagent, Drive CLAUDE_BACKUP, GitHub riêng tư, bước kiểm tra đếm đủ |
 
-Chưa đối chiếu: nhóm edit video, video viral, ảnh chân dung (mục 8, 9, 11).
+### Nhóm video viral (đã đối chiếu)
+| Việc | Giữ | Trùng (có thể bỏ) | Ghi chú |
+|---|---|---|---|
+| Video có lời dẫn, tin tức/review/giới thiệu | `tao-video-viral` | `videoviral` | Bản `videoviral` ngắn hơn và trỏ tới tệp `references/` không có sẵn; `tao-video-viral` đã nhúng đủ + thêm cổng media thật, phụ đề karaoke, cổng chữ tiếng Việt |
+| Reel Facebook đăng đều đặn | `reel-facebook-viral` | `viral-facebook-reel-maker` | Cùng quy trình; bản tiếng Việt đã nhúng sẵn 4 script nên chạy độc lập |
+| Chấm ý tưởng 8 yếu tố | `video-trieu-view-8-yeu-to` | không trùng | Khác việc: chấm trước khi dựng. Đã thêm nối sang các skill dựng |
+
+Chưa đối chiếu: nhóm edit video, ảnh chân dung (mục 8, 11).
