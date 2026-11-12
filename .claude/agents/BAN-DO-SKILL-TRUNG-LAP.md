@@ -69,4 +69,13 @@ Bản nâng cấp nằm trong `.claude/skills/<tên>/SKILL.md`. Chưa xoá skill
 ### Nhóm edit video (đã gộp)
 6 skill (`dang-1-thoai-thumbnail`, `dang-2-hieu-ung-cao-cap`, `dang-3-huong-dan-toi-gian`, `dang-4-infographic-trang`, `cap-do-1-khung-don`, `cap-do-2-postcard-2-nguoi`) lặp lại y nguyên phần Lõi (cắt gọn, thumbnail, caption), phần cài đặt môi trường và phần tài nguyên. Gộp thành 1: `edit-video-talking-head` (Lõi + cài đặt viết một lần, 6 kiểu là 6 lớp riêng). Hướng dẫn dùng: `HUONG-DAN-EDIT-VIDEO.md`.
 
-Chưa đối chiếu: nhóm ảnh chân dung (mục 11).
+### Nhóm ảnh chân dung (đã đối chiếu)
+| Skill | Kết luận |
+|---|---|
+| `blue-floral-luxury-portrait-4x`, `create-six-fashion-portraits`, `lucky-le` | **Gộp** thành `the-jessie-chan-dung-giu-guong-mat`: chung khung khóa mặt, khóa phong cách, tạo từng ảnh, kiểm tra từng ảnh; 3 bộ concept giữ nguyên. Thêm chế độ tự chọn bộ. |
+| `the-jessie-auto-5` | **Giữ riêng**: concept tự do theo thư viện DNA 3 tầng (người / sản phẩm / người + sản phẩm), có file Excel + script tra cứu. |
+| `jc-ai-fashion-sg-vn` | **Giữ riêng**: ảnh bán quần áo giữ đúng món đồ thật, có caption SG/VN. |
+
+Lỗi phát hiện ở bản gốc `lucky-le` (đã sửa trong bản gộp): trỏ tới `references/design-rationale.md` không tồn tại; có ký tự Hy Lạp lạc trong tên concept ("LỬΑ").
+
+Toàn bộ 11 nhóm trùng lặp đã đối chiếu xong.
