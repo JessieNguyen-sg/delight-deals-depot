@@ -49,7 +49,7 @@ Cập nhật: 12/11/2026. Chỉ là bản đồ để quyết định giữ/gộ
 ---
 
 ## Kết quả đối chiếu & nâng cấp (12/11/2026)
-Bản nâng cấp nằm trong `.claude/skills/<tên>/SKILL.md`. Chưa xoá skill gốc nào trong tài khoản.
+Bản nâng cấp nằm trong `JC-Skills/skills/<tên>/SKILL.md`. Chưa xoá skill gốc nào trong tài khoản.
 
 | Việc | Giữ & nâng cấp | Bản trùng (có thể bỏ) | Đã nâng cấp gì |
 |---|---|---|---|
