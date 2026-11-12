@@ -43,7 +43,7 @@ Cập nhật: 12/11/2026. Chỉ là bản đồ để quyết định giữ/gộ
 → Khác loại trang, giữ; riêng `landing-page-thiet-ke-rieng` là bản tổng quát.
 
 ## 11. Ảnh chân dung / thời trang
-- `blue-floral-luxury-portrait-4x`, `create-six-fashion-portraits`, `lucky-le` (nay là bộ "The Jessie Couture"), `the-jessie-auto-5`, `jc-ai-fashion-sg-vn`
+- `blue-floral-luxury-portrait-4x`, `create-six-fashion-portraits`, `lucky-le` (nay là bộ "The Jessie Phượng Hoàng Lửa"), `the-jessie-auto-5`, `jc-ai-fashion-sg-vn`
 → Cùng họ "ảnh người giữ khuôn mặt"; cân nhắc gộp.
 
 ---
