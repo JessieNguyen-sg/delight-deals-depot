@@ -7,7 +7,10 @@ Skill này thay 6 skill cũ (Dạng 1–4, Cấp độ 1–2). JC chỉ cần nh
 - Lần đầu Cole tự kiểm tra và cài ffmpeg, Whisper, `hyperframes`. Chỉ khi máy chặn quyền cài mới hỏi JC.
 - Tạo sẵn thư mục `input/` (bỏ video vào) và `output/` (thành phẩm).
 
-## Bước 1 — Chọn kiểu
+## Bước 1 — Chọn kiểu (hoặc để Cole chọn)
+**Không chắc? Chỉ cần nói: `edit video này, chọn phù hợp`.** Cole tự chọn theo độ dài và nội dung video (video dài → Cấp độ 1/2; clip ngắn → Dạng 1/2/3/4), báo chị 1 dòng "chọn Dạng X vì…", rồi dựng luôn. Không hợp ý thì nói "đổi sang Dạng Y".
+
+Muốn tự chọn thì dùng bảng:
 
 | JC muốn | Nói câu này |
 |---|---|
@@ -18,7 +21,7 @@ Skill này thay 6 skill cũ (Dạng 1–4, Cấp độ 1–2). JC chỉ cần nh
 | Video dài 1 người → nhiều short | `cắt video này thành short, Cấp độ 1` |
 | Podcast 2 người → short 2 ô | `cắt video podcast này thành short, Cấp độ 2` |
 
-Không chắc → chọn **Dạng 1** (nền, an toàn). Hợp brand JC:
+Hợp brand JC:
 - 3 Sisters, Viet Food, JCExpress (bán hàng, giới thiệu): Dạng 1 hoặc 2.
 - Khai Tâm Chay, The Jessie (chia sẻ, dạy): Dạng 3.
 - Video giải thích quy trình/so sánh (ví dụ VN–SG gửi hàng thủ công vs dùng dịch vụ): Dạng 4.

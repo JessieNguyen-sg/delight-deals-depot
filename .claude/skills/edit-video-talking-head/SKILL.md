@@ -1,13 +1,24 @@
 ---
 name: "edit-video-talking-head"
-description: "Edit video người nói trước camera thành short 9:16, gộp 6 kiểu: Dạng 1 (thoại + thumbnail), Dạng 2 (hiệu ứng cao cấp), Dạng 3 (tối giản cho chuyên gia), Dạng 4 (infographic trắng), Cấp độ 1 (video dài → nhiều short khung đơn bám mặt), Cấp độ 2 (podcast 2 người → short postcard 2 ô). Gọi khi JC nói 'edit Dạng 1/2/3/4', 'cắt short Cấp độ 1/2', 'edit video talking-head'."
+description: "Edit video người nói trước camera thành short 9:16, gộp 6 kiểu: Dạng 1 (thoại + thumbnail), Dạng 2 (hiệu ứng cao cấp), Dạng 3 (tối giản cho chuyên gia), Dạng 4 (infographic trắng), Cấp độ 1 (video dài → nhiều short khung đơn bám mặt), Cấp độ 2 (podcast 2 người → short postcard 2 ô). Gọi khi JC nói 'edit Dạng 1/2/3/4', 'cắt short Cấp độ 1/2', 'edit video talking-head', hoặc chỉ nói 'edit video này' / 'chọn phù hợp' (Cole tự chọn kiểu)."
 ---
 
 # Edit video talking-head — 1 skill, 6 kiểu
 
 Gộp từ `dang-1-thoai-thumbnail`, `dang-2-hieu-ung-cao-cap`, `dang-3-huong-dan-toi-gian`, `dang-4-infographic-trang`, `cap-do-1-khung-don`, `cap-do-2-postcard-2-nguoi`. Phần lõi và cài đặt dùng chung viết một lần ở đây.
 
-## Chọn kiểu (JC không nói rõ thì chọn theo bảng, không hỏi lại nhiều)
+## Chế độ TỰ CHỌN (JC nói "edit video này", "chọn phù hợp", "tuỳ Cole")
+Cole tự chọn kiểu, không hỏi lại. Làm theo thứ tự:
+1. Đo bằng `ffprobe` (thời lượng) và face-detect/diarization (số người nói).
+2. **Video dài >3 phút** → 1 người nói: **Cấp độ 1**; 2 người nói: **Cấp độ 2**.
+3. **Clip ngắn ≤3 phút, 1 người** → đọc transcript rồi chọn:
+   - Nội dung hướng dẫn/lời khuyên/chia sẻ kiến thức (Khai Tâm Chay, The Jessie, "5 bước…", "cách…") → **Dạng 3**.
+   - Có so sánh, quy trình, số liệu, danh sách ("thủ công vs dùng dịch vụ", bảng giá, các bước gửi hàng) → **Dạng 4**.
+   - Bán hàng/giới thiệu món/trái cây/dịch vụ, giọng nhiều cảm xúc (3 Sisters, Viet Food, JCExpress) → **Dạng 2**.
+   - Còn lại, hoặc không đủ dấu hiệu → **Dạng 1** (mặc định an toàn).
+4. Báo JC **một dòng** trước khi dựng: "Cole chọn Dạng X vì …". JC muốn đổi thì nói "đổi sang Dạng Y", Cole dựng lại.
+
+## Chọn kiểu thủ công (khi JC đã chỉ định)
 | JC muốn | Kiểu | Đầu vào | Đầu ra |
 |---|---|---|---|
 | Short nói chuyện nhanh, sạch, đủ dùng (mặc định) | **Dạng 1** | 1 clip ngắn, 1 người nói | `output/<tên>-dang1.mp4` |
